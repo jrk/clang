@@ -3,3 +3,10 @@ Debug+Asserts
 include/clang/*/*.inc
 lib/Headers/arm_neon.h.inc
 lib/StaticAnalyzer/Checkers/Checkers.inc
+configure.out
+docs/html.tar.gz
+docs/tools/clang.1
+docs/tools/clang.html
+docs/tools/clang.ps
+docs/tools/pod2htmd.tmp
+docs/tools/pod2htmi.tmp

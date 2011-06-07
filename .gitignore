@@ -1,0 +1,5 @@
+.DS_Store
+Debug+Asserts
+include/clang/*/*.inc
+lib/Headers/arm_neon.h.inc
+lib/StaticAnalyzer/Checkers/Checkers.inc

@@ -31,6 +31,7 @@ include/clang/*/*.inc
 lib/Headers/arm_neon.h.inc
 lib/StaticAnalyzer/Checkers/Checkers.inc
 configure.out
+docs/doxygen.cfg
 docs/html.tar.gz
 docs/tools/clang.1
 docs/tools/clang.html

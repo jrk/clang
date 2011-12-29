@@ -23,3 +23,11 @@
 #==============================================================================#
 cscope.files
 cscope.out
+
+#jrk
+Release+Asserts
+Debug+Asserts
+*.inc
+docs/doxygen.cfg
+# c++-analyzer is a symlink to cxx-analyzer - Dropbox makes copies on remote machines
+tools/scan-build/c++-analyzer
